@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string-array name ="array_Email">
+        <item>Mark1</item>
+        <item>Mark2</item>
+        <item>Mark3</item>
+        <item>Mark4</item>
+        <item>Mark5</item>
+        <item>Mark6</item>
+        <item>Mark7</item>
+        <item>Mark8</item>
+        <item>Mark9</item>
+        <item>Mark10</item>
+        <item>Mark11</item>
+        <item>Mark12</item>
+        <item>Mark13</item>
+        <item>Mark14</item>
+        <item>Mark15</item>
+        <item>Mark16</item>
+        <item>Mark17</item>
+        <item>Mark18</item>
+        <item>Mark19</item>
+        <item>Mark20</item>
+
+    </string-array>
+
+</resources>
